@@ -48,7 +48,7 @@
           factory-method="jedisSentinelPool">
         <constructor-arg index="0">
             <list>
-                <value>192.168.2.18:27380</value>
+                <value>127.0.0.1:27380</value>
                 <value>192.168.1.7:27380</value>
                 <value>192.168.2.4:27380</value>
             </list>
